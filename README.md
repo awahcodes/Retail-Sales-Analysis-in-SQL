@@ -10,14 +10,15 @@
 
     
 ### Project Overview:
-
+---
 The project is aimed to provide insights into retail sales performance of an e-commerce company with 3 months. By analysing various aspects of the data, we seek to identify trends, make data driven solutions and gain better understanding of the business performance.
 
 ### Data Sources
-
+---
 Sales data: Dataset was obtained from Kaggle. Data is a csv file containing sales transactions for 3 months from 3 stores in different cities.
 
 ### Tools
+---
 - Python: To import downloaded data into PostgreSQL
 - PostgrSQL: Data wrangling and analysis
 
@@ -96,17 +97,17 @@ Sales data: Dataset was obtained from Kaggle. Data is a csv file containing sale
            ```
 
 ### Solutions 
+---
   - Wrote queries to answer business question [Link to solutions](https://github.com/awahcodes/Retail-Sales-Analysis-in-SQL/blob/master/Solution%20to%20Business%20Qusetions.txt)
 
 ### Results
+---
 #### Sales
   - Most sales occurred during the evening on Sundays.
   - The store is busiest in the evening hours.
 
-#### 
-
-
 ### Recommendations
+---
   - Evaluate pricing strategies in cities with high VAT to ensure profitability remains intact.
   - Inform customers about how taxes contribute to final prices to manage expectations.
   - Consider targeting advertising efforts in cities with lower VAT to highlight competitive pricing.
